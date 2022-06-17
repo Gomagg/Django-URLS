@@ -1,2 +1,2 @@
 # Django-URLS
-Creating Super user and changing of the admin name
+Creating Super user and changing of the admin urls
